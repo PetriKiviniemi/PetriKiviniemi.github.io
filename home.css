@@ -1,0 +1,32 @@
+body {
+    width: auto;
+    height: auto;
+    background-color: #dedcdc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center,center;
+    margin: 0;
+    
+}
+
+.headerContainer{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2e2e2e;
+}
+
+.header {
+    text-anchor: center;
+    height: 35vh;
+    padding: 60px;
+    text-align: left;
+    color: #8f8f8f;
+    font-size: 25px;
+    
+}
+
+.strong{
+    color: white;
+}
